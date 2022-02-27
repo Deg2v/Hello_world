@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 8.1711 8.1711
 8.17 8.17
 8.17 8.17
 8 8 
-=======
 aaa
 helllllesdfhs f sdj fsldjf
 ppp
->>>>>>> 73ffe732b5aa2c83068502d52ca6e246e5eb35bc
+hello
